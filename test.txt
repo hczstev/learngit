@@ -3,5 +3,5 @@ add one line
 
 one more empty line
 remote
-added by PC
+
 add by mac
